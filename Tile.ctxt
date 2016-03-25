@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=Tile(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=value
+comment2.target=void\ drawTile(int)
+numComments=3
